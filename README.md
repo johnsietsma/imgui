@@ -1,3 +1,7 @@
+Forked simply to add a CMakeLists.txt.
+
+
+
 dear imgui,
 =====
 [![Build Status](https://travis-ci.org/ocornut/imgui.svg?branch=master)](https://travis-ci.org/ocornut/imgui)
